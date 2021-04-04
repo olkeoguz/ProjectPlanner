@@ -24,4 +24,6 @@ npm run build
 See [Configuration Reference](https://cli.vuejs.org/config/).
 "# ProjectPlanner" 
 
+#### My first Vue app
+
 
